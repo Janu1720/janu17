@@ -1,2 +1,2 @@
-help
-getattr
+hello
+my self
